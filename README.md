@@ -1,0 +1,3 @@
+# Hybrid-Images
+
+The objective of this project is to develop a simple image convolution function and utilize it for generating hybrid images based on a simplified version of the SIGGRAPH 2006 paper authored by Oliva, Torralba, and Schyns. The main concept is that high-frequency elements have a stronger influence on perception when they are discernible, whereas only the low-frequency (smooth) components can be observed at a distance. By merging the high-frequency part of one image with the low-frequency part of another, we can create a hybrid image that elicits different interpretations depending on the viewing distance.
