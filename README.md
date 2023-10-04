@@ -9,6 +9,8 @@ The objective of this project is to develop a simple image convolution function 
 > pip install matplotlib <br>
 > pip install math
 > Replace the paths for the images to make an hybrid for in main.py file.
+
+
 Run main.py . Hybrid images will be generated.
 
 
